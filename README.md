@@ -5,9 +5,9 @@ view post and comment on the great quotes.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./images/quotes.jpg)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./images/quote&comment.jpg)
 
 
 ## Installation
